@@ -1,0 +1,37 @@
+#photo{
+    /* object-position:top left; */
+    width: 180px;
+}
+table{
+    margin-left: 250px;
+    border-collapse: seperate;
+    /* margin:0px -40px; */
+    border-spacing: 50px 0px;
+    /* padding-left: 50px; */
+    border: 10px;
+    border-color: white;
+   
+}
+th{
+    padding: 40px;
+}
+#cont{
+    text-align: left;
+}
+#edu{
+    text-align: left;
+}
+#skill{
+    text-align: left;
+}
+body{
+ 
+    background-color: rgb(13, 13, 31); 
+    /* background-image: url(./img/lukas-rychvalsky-o0GhPKxe5GM-unsplash.jpg);
+    background-size: 1800px 700px; */
+    background-color: black;
+    color: white;
+}
+#info{
+    font-size: 10px;
+}
